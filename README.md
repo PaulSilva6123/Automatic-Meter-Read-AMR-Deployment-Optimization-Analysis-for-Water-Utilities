@@ -9,6 +9,10 @@ Using Excel, ArcGIS, and ArcGIS Dashboards, I analyzed the existing distribution
 
 ---
 
+![AMR Dashboard](amr-dashboard.png)
+
+---
+
 ## Business Problem
 
 Transitioning from manual meter reading to Automatic Meter Reading (AMR) required balancing operational efficiency with infrastructure costs. Utility leadership needed a data-driven way to identify where AMR expansion would provide the greatest benefit by prioritizing routes, leveraging existing collector coverage, and targeting areas with high concentrations of non-AMR meters
