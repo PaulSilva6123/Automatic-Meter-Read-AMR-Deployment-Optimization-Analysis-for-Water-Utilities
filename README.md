@@ -34,7 +34,6 @@ Transitioning from manual meter reading to Automatic Meter Reading (AMR) require
 •  Feature Services 
 •  Dashboard Development 
 •  Interactive Filtering 
-•  KPI Design 
 •  Microsoft Excel 
 •  Data Preparation & Validation 
 •  Meter Classification 
