@@ -46,4 +46,10 @@ Transitioning from manual meter reading to Automatic Meter Reading (AMR) require
 
 ## Results & Business Recommendations
 
-PLACEHOLDER
+Developing an interactive dashboard provided utility stakeholders with visibility into existing AMR infrastructure, collector coverage, and meter distributions across the service area. By democratizing this information, decision-makers were able to evaluate AMR deployment opportunities using objective operational data rather than assumptions.
+The analysis revealed that Routes 32 and 33 represented the strongest candidates for the next phase of mass meter replacements. These two routes accounted for more than 50% of the meters within the targeted billing area, and approximately 90% of both route areas fell within the existing 5-mile communication radius of collector towers. This indicated that a large portion of meters could be converted to AMR technology while maximizing the use of existing infrastructure and minimizing the need for additional collector investments.
+Based on these findings, the following recommendations were developed:
+1.	Prioritize Routes 32 and 33 during the next mass meter replacement initiative to maximize the impact of AMR deployment efforts.
+2.	Convert eligible non-AMR meters already located within existing collector coverage areas before investing in additional collector infrastructure.
+3.	Continue using the dashboard as a planning tool to identify future deployment opportunities as collector networks expand and meter inventories change.
+4.	Evaluate routes with lower collector coverage separately to determine whether future collector installations would support broader AMR adoption.
