@@ -11,6 +11,7 @@ Using Excel, ArcGIS, and ArcGIS Dashboards, I analyzed the existing distribution
 ## AMR Deployment Dashboard
 
 The dashboard was developed to support strategic planning for future AMR deployments by visualizing collector coverage, meter distributions, and route-level conversion opportunities across the utility's service area. By integrating meter classifications, billing routes, and collector service ranges, the analysis enabled leadership to identify areas where AMR implementation would provide the greatest operational benefit and maximize the value of existing infrastructure investments.
+
 ![AMR Dashboard](amr-dashboard.png)
 
 ---
